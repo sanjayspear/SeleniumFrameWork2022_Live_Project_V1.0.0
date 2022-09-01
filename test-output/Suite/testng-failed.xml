@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite thread-count="2" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
-  <test thread-count="2" parallel="tests" name="Test(failed)">
+<suite thread-count="3" parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="3" parallel="tests" name="Test1(failed)">
     <classes>
       <class name="seleniumScripts.seleniumScripts.AddRemoveItemBasketTest">
         <methods>
@@ -11,5 +11,16 @@
         </methods>
       </class> <!-- seleniumScripts.seleniumScripts.AddRemoveItemBasketTest -->
     </classes>
-  </test> <!-- Test(failed) -->
+  </test> <!-- Test1(failed) -->
+  <test thread-count="3" parallel="tests" name="Test3(failed)">
+    <classes>
+      <class name="seleniumScripts.seleniumScripts.ShopLoginTest">
+        <methods>
+          <include name="addRemoveItem"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- seleniumScripts.seleniumScripts.ShopLoginTest -->
+    </classes>
+  </test> <!-- Test3(failed) -->
 </suite> <!-- Failed suite [Suite] -->
