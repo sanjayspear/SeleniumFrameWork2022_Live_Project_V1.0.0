@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
-<suite name="Suite" parallel="tests" thread-count="3">
-  <test thread-count="5" name="Test1">
+<suite name="Suite">
+<listeners>
+   <listener class-name="base.RetryListener"></listener>
+</listeners>
+  <test thread-count="5" name="Test">
     <classes>
-      <class name="seleniumScripts.seleniumScripts.AddRemoveItemBasketTest"/>
-    </classes>
-  </test> <!-- Test -->
-  
-  <test thread-count="5" name="Test2">
-    <classes>
-      <class name="seleniumScripts.seleniumScripts.OrderCompleteTest"/>
-    </classes>
-  </test> <!-- Test -->
-  
-  <test thread-count="5" name="Test3">
-    <classes>
-      <class name="seleniumScripts.seleniumScripts.ShopLoginTest"/>
+      <class name="seleniumConcepts.miscellaneousTopics.TestNGListenerDemoForRetryOnTestFailure"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
