@@ -823,3 +823,194 @@
 2022-09-21 12:49:53,671  INFO [main] BaseClass:30 - Delete All Cookies
 2022-09-21 12:49:53,685  INFO [main] BaseClass:32 - Static thread wait for 3 seconds
 2022-09-21 12:49:56,829  INFO [main] BaseClass:39 - Close the browser
+2024-12-17 14:00:40,799  INFO [main] BaseClass:21 - Initializing the ChromeDriver
+2024-12-17 14:02:06,992  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:02:08,804  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:02:08,904  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:02:08,921  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:02:08,930  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:02:08,952  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:02:18,548  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:02:27,673  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:02:29,630  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:02:29,762  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:02:29,783  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:02:29,792  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:02:29,821  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:02:37,421  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:02:37,692  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:03:07,743  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:03:09,411  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:03:09,482  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:03:09,490  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:03:09,497  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:03:09,523  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:03:20,633  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:03:20,803  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:04:06,997  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:04:08,646  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:04:08,736  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:04:08,747  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:04:08,753  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:04:08,771  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:04:19,906  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:04:20,174  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:05:12,098  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:05:13,926  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:05:14,024  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:05:14,037  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:05:14,051  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:05:14,077  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:05:40,020  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:05:40,246  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:05:53,429  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:05:55,140  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:05:55,210  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:05:55,224  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:05:55,233  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:05:55,264  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:06:07,632  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:06:35,823  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:06:37,474  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:06:37,591  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:06:37,600  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:06:37,613  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:06:37,648  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:06:47,581  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:06:47,858  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:07:28,552  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:07:30,121  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:07:30,289  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:07:30,297  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:07:30,323  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:07:30,338  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:07:43,641  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:07:43,886  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:08:11,653  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:08:13,284  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:08:13,388  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:08:13,406  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:08:13,422  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:08:13,446  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:08:27,347  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:08:27,615  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:09:07,011  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:09:09,041  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:09:09,140  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:09:09,159  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:09:09,173  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:09:09,195  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:09:19,633  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:09:19,866  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:10:31,818  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:10:33,383  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:10:33,502  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:10:33,517  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:10:33,528  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:10:33,569  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:10:36,588  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2024-12-17 14:10:40,081  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2024-12-17 14:10:40,082  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2024-12-17 14:10:40,225  INFO [main] ExceptionsDemo:35 - Enter the user name
+2024-12-17 14:13:04,037  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:13:05,808  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:13:05,918  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:13:05,931  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:13:05,937  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:13:05,961  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:13:08,980  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2024-12-17 14:13:11,274  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2024-12-17 14:13:11,274  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2024-12-17 14:13:11,502  INFO [main] ExceptionsDemo:35 - Enter the user name
+2024-12-17 14:13:22,646  INFO [main] ExceptionsDemo:43 - Enter the password
+2024-12-17 14:17:19,013  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:17:20,785  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:17:20,925  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:17:20,947  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:17:20,961  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:17:20,993  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:17:24,011  INFO [main] ExceptionsDemo:18 - WebApp launch in progress
+2024-12-17 14:17:26,109  INFO [main] ExceptionsDemo:20 - WebApp launched successfully 
+2024-12-17 14:17:26,110  INFO [main] ExceptionsDemo:22 - Clicked on Login
+2024-12-17 14:17:26,216  INFO [main] ExceptionsDemo:35 - Enter the user name
+2024-12-17 14:17:28,928  INFO [main] ExceptionsDemo:45 - Enter the password
+2024-12-17 14:18:58,691  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:19:00,324  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:19:00,469  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:19:00,517  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:19:00,535  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:19:00,559  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:19:09,732  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:19:09,998  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:19:42,026  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:19:43,658  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:19:43,725  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:19:43,734  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:19:43,748  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:19:43,780  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:19:51,485  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:19:51,869  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:26:37,073  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:26:38,757  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:26:38,851  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:26:38,867  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:26:38,887  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:26:38,908  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:26:53,799  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:26:54,155  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:32:11,229  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:32:12,875  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:32:13,006  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:32:13,018  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:32:13,031  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:32:13,071  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:32:17,425  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:32:23,876  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:34:07,606  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:34:09,215  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:34:09,326  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:34:09,336  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:34:09,350  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:34:09,368  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:34:22,311  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:34:22,458  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:41:14,135  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:41:15,724  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:41:15,859  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:41:15,888  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:41:15,894  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:41:15,928  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:41:22,864  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:41:23,091  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:42:23,932  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:42:25,516  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:42:25,615  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:42:25,635  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:42:25,650  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:42:25,673  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:43:02,942  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:43:03,128  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 14:43:43,500  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 14:43:45,058  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 14:43:45,182  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 14:43:45,194  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 14:43:45,202  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 14:43:45,255  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 14:43:55,190  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 14:43:55,399  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 15:56:44,482  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 15:56:46,824  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 15:56:46,949  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 15:56:46,965  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 15:56:46,982  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 15:56:47,013  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 15:56:52,787  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 15:56:53,040  INFO [main] BaseClass:39 - Quit the browser
+2024-12-17 15:58:14,736  INFO [main] BaseClass:20 - Initializing the ChromeDriver
+2024-12-17 15:58:16,339  INFO [main] BaseClass:22 - Maximixe the window
+2024-12-17 15:58:16,430  INFO [main] BaseClass:24 - Implicit wait for max 10 SECONDS
+2024-12-17 15:58:16,448  INFO [main] BaseClass:26 - Page Load Timeout for max 10 SECONDS
+2024-12-17 15:58:16,462  INFO [main] BaseClass:28 - Delete All Cookies
+2024-12-17 15:58:16,480  INFO [main] BaseClass:30 - Static thread wait for 3 seconds
+2024-12-17 15:58:22,176  INFO [main] BaseClass:37 - Close the browser
+2024-12-17 15:58:22,424  INFO [main] BaseClass:39 - Quit the browser

@@ -33,9 +33,11 @@ public class ExceptionsDemo extends BaseClass {
 		 * you get again NoSuchElementException
 		 */
 		log.info("Enter the user name");
-		WebElement username = driver.findElement(By.xpath("//input[@name='email']"));
+		WebElement username = driver.findElement(By.xpath("//input[@id='email']"));
+		WebElement loginBtn = driver.findElement(By.xpath("//button[@data-test='btn-login']"));
 		try {
 			username.sendKeys("rahul@gmail.com");
+			loginBtn.click();
 		} catch (Exception e2) {
 			log.error("Incorrect Locator for the password field button" + e2);
 		}

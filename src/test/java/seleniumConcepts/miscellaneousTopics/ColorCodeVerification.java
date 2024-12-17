@@ -2,6 +2,7 @@ package seleniumConcepts.miscellaneousTopics;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.support.Color;
+import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
@@ -21,9 +22,11 @@ public class ColorCodeVerification extends BaseClass {
 		String expectedColorCode = "#1d8ea0";
 		
 		String col = driver.findElement(By.xpath("//input[@id='signInBtn']")).getCssValue("background-color");
+		System.out.println("CSS Value in RGB Format"+col); // Formatrgba(29, 142, 160, 1)
 		String actualColorCode = Color.fromString(col).asHex();
+		System.out.println("After converting CSS value to the Hexadecimal format "+actualColorCode); // #1d8ea0
 		          
-		org.testng.Assert.assertEquals(actualColorCode, expectedColorCode, "Test Failed");	
+		Assert.assertEquals(actualColorCode, expectedColorCode, "Test Failed");	
 	}
 	
 	

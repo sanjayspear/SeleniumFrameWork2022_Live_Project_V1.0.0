@@ -28,7 +28,7 @@ public class TooltipTest2 extends BaseClass {
 		String actualTooltipText = tooltip.getText();
 		System.out.println("[Actual Text] ==> "+actualTooltipText);
 		
-		String expectedTooltipText = "Tooltip text1";
+		String expectedTooltipText = "Tooltip text";
 		
 		Assert.assertEquals(actualTooltipText, expectedTooltipText);
 		

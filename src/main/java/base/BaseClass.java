@@ -4,7 +4,6 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
@@ -19,8 +18,7 @@ public class BaseClass {
 	@BeforeSuite
 	public void setup() throws InterruptedException {
 		log.info("Initializing the ChromeDriver");
-		WebDriverManager.chromiumdriver().setup();
-		driver = new ChromeDriver();
+		driver = WebDriverManager.edgedriver().create();
 		log.info("Maximixe the window");
 		driver.manage().window().maximize();
 		log.info("Implicit wait for max 10 SECONDS");

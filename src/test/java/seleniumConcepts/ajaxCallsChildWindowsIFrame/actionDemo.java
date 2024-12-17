@@ -13,7 +13,7 @@ public class actionDemo extends BaseClass {
 
 	@BeforeMethod
 	public void signin() throws InterruptedException {
-		driver.get("https://www.amazon.com/");
+		driver.get("https://www.amazon.in/");
 		System.out.println("user has logged in");
 	}
 

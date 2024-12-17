@@ -34,7 +34,7 @@ public class AutoSuggestiveDropDown extends BaseClass {
 		Thread.sleep(1000);
 		
 		
-		String expectedCountry = "Indonesia";
+		String expectedCountry = "India";
 		String Actualcountry = ele.getAttribute("value");
 		
 		System.out.println("Country "+Actualcountry);
